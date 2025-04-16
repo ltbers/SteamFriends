@@ -16,7 +16,6 @@
 
 | Avatar                                                                            | Name                  | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/c20471796d379d563df8d37b27005dec3d34597b.jpg) | 圣元未花                  | [76561198351568962](https://steamcommunity.com/profiles/76561198351568962/) | ❌           | 2016-12-15 10:41:20 |          | 2025-04-16 09:20:50 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS             | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-04-04 12:26:43 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT                  | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-04-04 12:26:43 |
 | ![](https://avatars.steamstatic.com/35bbf3aff53a795174e63f803040745441d3adae.jpg) | 涼涼涼                   | [76561199519977723](https://steamcommunity.com/profiles/76561199519977723/) | ✅           | 2024-02-24 10:03:40 |          |                     |
